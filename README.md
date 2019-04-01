@@ -1,5 +1,5 @@
 # cell_lineage
-Studying the dynamics of cell position in C. Elegans early embryogenesis
+Studying the dynamics of cell position and positional ordering in C. Elegans embryogenesis
 
 The roadmap for the internship can be found [there](https://github.com/paulvill/cell_lineage/issues/1)
 
