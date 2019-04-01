@@ -1,5 +1,5 @@
 # Cell Positional Ordering in C. Elegans Embryogenesis
-Studying the dynamics of cell positional ordering in C. Elegans embryogenesis
+We aim at studying the dynamics of cell positional ordering in C. Elegans embryogenesis
 
 The roadmap for the internship can be found [there](https://github.com/paulvill/cell_lineage/issues/1)
 
