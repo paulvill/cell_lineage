@@ -12,6 +12,7 @@ Bibliography
 - Introduction to [Computational Topology](https://www.researchgate.net/profile/John_Harer/publication/220692408_Computational_Topology_An_Introduction/links/54adf07a0cf2828b29fcb7ef.pdf)
 
 - Previous work on cell lineage and cell positional ordering: 
+  - [The simplicity of metazoan cell lineages](https://www.nature.com/articles/nature03178)
   - [Entropic effects in cell lineage tree packings](https://www.nature.com/articles/s41567-018-0202-0)
   - [Connected development](https://www.nature.com/articles/s41567-018-0236-3)
   
